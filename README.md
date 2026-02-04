@@ -1,5 +1,14 @@
 #  PHP_Laravel12_Packege_Sail
 
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Laravel-12-red" alt="Laravel Version"></a>
+<a href="#"><img src="https://img.shields.io/badge/Docker-Sail-blue" alt="Docker Sail"></a>
+<a href="#"><img src="https://img.shields.io/badge/WSL-Ubuntu-green" alt="WSL Ubuntu"></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-Database-orange" alt="MySQL Database"></a>
+<a href="#"><img src="https://img.shields.io/badge/Frontend-Vite-purple" alt="Vite Frontend"></a>
+<a href="#"><img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License"></a>
+</p>
+
 ##  Overview
 
 **PHP_Laravel12_Packege_Sail** is a Laravel 12 development setup powered by Docker through Laravel Sail.  
