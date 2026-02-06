@@ -1,4 +1,4 @@
-#  PHP_Laravel12_Packege_Sail
+#  PHP_Laravel12_Package_Sail
 
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Laravel-12-red" alt="Laravel Version"></a>
